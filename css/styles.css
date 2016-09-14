@@ -19,10 +19,9 @@ body {
 }
 #avatar {
   height: 32px;
-  margin: 0 30px 0 8px;
+  margin: 0 0 0 8px;
 }
 #alerts, #apps {
   height: 22px;
-  margin: 4px 0 0 8px;
-  margin-right: 10px;
+  margin: 4px 14px 0 8px;
 }
