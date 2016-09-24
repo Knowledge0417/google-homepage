@@ -59,7 +59,7 @@ body {
 }
 #main-content input:hover {
   outline: none;
-  border: 1px solid #f4f4f4;
+  border: 1px solid #666;
 }
 .buttons {
   width: 260px;
