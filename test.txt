@@ -3,3 +3,5 @@ This is a test for Git within Powershell within Windows Terminal, using Posh-Git
 Adding a line to this file for more git testing.
 
 Testing VS Code git functionality.
+
+Testing for KDE Neon
