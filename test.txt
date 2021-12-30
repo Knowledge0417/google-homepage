@@ -5,3 +5,5 @@ Adding a line to this file for more git testing.
 Testing VS Code git functionality.
 
 Testing for KDE Neon
+
+VS Code on KDE Neon test
